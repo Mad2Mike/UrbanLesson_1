@@ -13,31 +13,3 @@ mutable_list.remove("Я строка списка")
 print(mutable_list)
 mutable_list.extend(["А я новая строка списка", 2231231])
 print(mutable_list)
-
-
-
-
-
-
-
-# Списки
-# food = ["apple", "coconut", "banana"]
-# food.append(True)
-# print(food)
-# food.extend(["string", 2231231])
-# print(food)
-# food.remove("string")
-# print(food)
-# print("coconut" in food)
-# print("coconut" not in food)
-# print(food[0:2:5])
-
-
-#Кортежи
-# tuple_ = ([1,2],3,4) + (1, 2)
-# print(tuple_.__sizeof__())
-# print(tuple_)
-# tuple_[0][0] = 2
-# print(tuple_)
-# tuple_ = (1, 2) * 2
-# print(tuple_)
