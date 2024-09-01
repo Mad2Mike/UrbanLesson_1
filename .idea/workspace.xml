@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="012a9b96-f048-4da1-bc7b-d414f717b7c1" name="Changes" comment="Lesson 5 Update">
-      <change afterPath="$PROJECT_DIR$/module_1_6.py" afterDir="false" />
+    <list default="true" id="012a9b96-f048-4da1-bc7b-d414f717b7c1" name="Changes" comment="Lesson 6 Update">
+      <change afterPath="$PROJECT_DIR$/module_1_final.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -69,6 +69,7 @@
     "Python.module_1_4.executor": "Run",
     "Python.module_1_5.executor": "Run",
     "Python.module_1_6.executor": "Run",
+    "Python.module_1_final.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
@@ -147,7 +148,23 @@
       <option name="project" value="LOCAL" />
       <updated>1724878326565</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Lesson 6 Update">
+      <option name="closed" value="true" />
+      <created>1724946984613</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1724946984613</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Lesson 6 Update">
+      <option name="closed" value="true" />
+      <created>1724947014873</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1724947014873</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -155,17 +172,7 @@
     <MESSAGE value="Lesson3 Update" />
     <MESSAGE value="Lesson 4 and 5 Update" />
     <MESSAGE value="Lesson 5 Update" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lesson 5 Update" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/module_1_6.py</url>
-          <line>9</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="Lesson 6 Update" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lesson 6 Update" />
   </component>
 </project>
